@@ -1,4 +1,4 @@
-# [Név]
+# [Kormos Csanád]
 
 ## Hogyan kezdj neki?
 
