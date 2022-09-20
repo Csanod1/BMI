@@ -1,0 +1,17 @@
+main{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#bekeres{
+    background-color: orange;
+}
+.oszlop1{
+    font-weight: bold;
+}
+.oszlop2{
+    text-transform: uppercase;
+}
+h2{
+    color: orange;
+}
